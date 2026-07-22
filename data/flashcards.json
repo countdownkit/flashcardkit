@@ -1,0 +1,110 @@
+{
+  "pages": [
+    {
+      "slug": "blank-flashcards",
+      "group": "Blank",
+      "type": "blank",
+      "emoji": "⬜",
+      "title": "Blank Flashcards",
+      "desc": "Free printable blank flashcard template. Type into the cells or print them empty to write by hand, then print or save as a PDF. No download or signup.",
+      "blurb": "A clean blank flashcard template — a full page of roomy cells you can type into or print empty and fill in by hand. Perfect for study terms, vocabulary, or any prompt-and-answer pair you want to make yourself.",
+      "tip": "Every cell is click-to-type. Print double-sided so your answers land behind their prompts, or print fronts only for single-sided cards."
+    },
+    {
+      "slug": "multiplication-flashcards",
+      "group": "Math",
+      "type": "math",
+      "op": "×",
+      "min": 0,
+      "max": 12,
+      "emoji": "✖️",
+      "title": "Multiplication Flashcards",
+      "desc": "Free printable multiplication flashcards, 0-12 times tables. Front shows the fact, back shows the computed answer. Print double-sided or save as a PDF. No signup.",
+      "blurb": "The complete set of multiplication facts from 0 to 12 — every fact on the front, the answer on the back. Answers are computed, never mistyped, so the whole deck is guaranteed correct.",
+      "tip": "That's the full 0-12 deck (169 cards) across several pages. Print double-sided and flip on the long edge so each answer prints behind its fact."
+    },
+    {
+      "slug": "addition-flashcards",
+      "group": "Math",
+      "type": "math",
+      "op": "+",
+      "min": 0,
+      "max": 12,
+      "emoji": "➕",
+      "title": "Addition Flashcards",
+      "desc": "Free printable addition flashcards, sums 0-12. Front shows the problem, back shows the computed answer. Print double-sided or save as a PDF. No signup.",
+      "blurb": "Addition facts from 0 to 12 with every sum on the back — the full deck, computed so every answer is correct. Great for kindergarten and early-grade math-fact practice.",
+      "tip": "That's the full 0-12 deck (169 cards) across several pages. Print double-sided and flip on the long edge so each answer prints behind its problem."
+    },
+    {
+      "slug": "division-flashcards",
+      "group": "Math",
+      "type": "math",
+      "op": "÷",
+      "dMin": 1,
+      "dMax": 12,
+      "qMin": 1,
+      "qMax": 12,
+      "emoji": "➗",
+      "title": "Division Flashcards",
+      "desc": "Free printable division flashcards, divisors 1-12. Every fact divides evenly; the back shows the computed quotient. Print double-sided or save as a PDF. No signup.",
+      "blurb": "Division facts for divisors 1 through 12 — every problem divides evenly with no remainders, and the quotient is on the back. Built by construction from the multiplication facts, so every answer is correct.",
+      "tip": "That's 144 cards across several pages. Print double-sided and flip on the long edge so each quotient prints behind its problem."
+    },
+    {
+      "slug": "sight-words-flashcards",
+      "group": "Reading & language",
+      "type": "builtin",
+      "set": "sight",
+      "emoji": "👁️",
+      "title": "Sight Words Flashcards",
+      "desc": "Free printable sight word flashcards — the first 40 Fry / Dolch high-frequency words for early readers. Print, cut, and practice, or save as a PDF. No signup.",
+      "blurb": "The 40 most common sight words (Fry's first list, overlapping the Dolch words) — the ones early readers should recognize instantly rather than sound out. One word per card, big and clear.",
+      "tip": "These read the same on both sides, so print single-sided to save paper, or double-sided if you want the word visible whichever way a card faces."
+    },
+    {
+      "slug": "letters-flashcards",
+      "group": "Reading & language",
+      "type": "builtin",
+      "set": "letters",
+      "emoji": "🔤",
+      "title": "Alphabet Letter Flashcards",
+      "desc": "Free printable alphabet flashcards, A to Z. Front shows the uppercase letter, back shows the matching lowercase. Print double-sided or save as a PDF. No signup.",
+      "blurb": "The full alphabet, A to Z — uppercase on the front and the matching lowercase on the back. A simple, clear set for teaching letter recognition and upper/lowercase pairs.",
+      "tip": "Print double-sided and flip on the long edge so each lowercase letter lands behind its uppercase partner."
+    },
+    {
+      "slug": "numbers-flashcards",
+      "group": "Reading & language",
+      "type": "builtin",
+      "set": "numbers",
+      "emoji": "🔢",
+      "title": "Number Flashcards (0-20)",
+      "desc": "Free printable number flashcards, 0 to 20. Front shows the numeral, back shows the number word. Print double-sided or save as a PDF. No signup.",
+      "blurb": "Numbers 0 through 20 — the numeral on the front and the spelled-out word on the back (7 / seven). Good for number recognition and connecting figures to their names.",
+      "tip": "Print double-sided and flip on the long edge so each number word prints behind its numeral."
+    },
+    {
+      "slug": "states-and-capitals-flashcards",
+      "group": "Reading & language",
+      "type": "builtin",
+      "set": "states",
+      "emoji": "🗽",
+      "title": "States and Capitals Flashcards",
+      "desc": "Free printable US states and capitals flashcards — all 50 states. Front shows the state, back shows its capital. Print double-sided or save as a PDF. No signup.",
+      "blurb": "All 50 US states with their capitals — the state on the front, the capital on the back. A complete, correct set for geography study and quizzing.",
+      "tip": "Print double-sided and flip on the long edge so each capital lands behind its state."
+    },
+    {
+      "slug": "spanish-flashcards",
+      "group": "Reading & language",
+      "type": "builtin",
+      "set": "spanish",
+      "emoji": "🇪🇸",
+      "title": "Spanish Flashcards",
+      "desc": "Free printable Spanish vocabulary flashcards — 30 common words. Front shows English, back shows the Spanish word. Print double-sided or save as a PDF. No signup.",
+      "blurb": "Thirty common Spanish words for beginners — the English word on the front and its Spanish translation on the back. Everyday vocabulary like colors, numbers, family, and greetings.",
+      "tip": "Print double-sided and flip on the long edge so each Spanish word lands behind its English prompt."
+    }
+  ]
+}
